@@ -1,0 +1,11 @@
+$ cd /
+$ ls
+dir a
+43562874 a.txt
+$ cd a
+$ ls
+dir a
+2 a.txt
+$ cd a
+$ ls
+34000000 a.txt
